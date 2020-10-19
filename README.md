@@ -1,2 +1,2 @@
 # Ozone_Prediction
-prediction of ozone concentration in the Raleigh area
+Ozone concentration prediction in the Raleigh area
